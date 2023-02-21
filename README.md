@@ -1,4 +1,4 @@
-### Olá, eu sou a professora Deise 👩‍🏫
+### Oi, eu sou a prof Deise  👩‍🏫
 
 <div align="center">
   <a href="https://github.com/samaradeoliveira">
