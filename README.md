@@ -1,7 +1,8 @@
 ### Olá, eu sou a professora Deise 👩‍🏫
 
 
-![Professora GitHub stats](https://github-readme-stats.vercel.app/api?username=samaradeoliveira&show_icons=true&theme=radical)
+![Professora GitHub stats](https://github-readme-stats.vercel.app/api?username=samaradeoliveira&show_icons=true&theme=dracula)
+
 
 <div align="center">
   <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
