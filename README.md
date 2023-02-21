@@ -1,12 +1,7 @@
 ### Olá, eu sou a professora Deise 👩‍🏫
 
 
-<div align="center">
-  <a href="https://github.com/samaradeoliveira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Professora Deise&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samideolli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br/>
+![Professora GitHub stats](https://github-readme-stats.vercel.app/api?username=samaradeoliveira&show_icons=true&theme=radical)
 
 <div align="center">
   <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
